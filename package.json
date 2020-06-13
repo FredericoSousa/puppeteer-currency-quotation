@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-currency-quotation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "puppeteer": "^3.3.0"
+  }
+}
